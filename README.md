@@ -11,7 +11,7 @@ The whole example is following the flow as showing in below video.
 In summary main benefits with this pattern over MVC are as follows
 
 * It provides better Unit testing compatibility than MVC
-* Isolate all the objects so easy to troubleshooting
+* Isolate all the objects so easy for troubleshooting
 * Business logic reliability
 
 
